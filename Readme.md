@@ -1,8 +1,9 @@
 <img src="https://img.shields.io/badge/Data Speaks-coral"><img src="https://img.shields.io/badge/Build_With-Tableau-magenta"><img src="https://img.shields.io/badge/Python-pink"><img src="https://img.shields.io/badge/Covid19 Vaccine Tracker-silver"><img src="https://img.shields.io/badge/VsCode-teal"><img src="https://img.shields.io/badge/Data Analysis-darkblue"><img src="https://img.shields.io/badge/Dashboard-gold"><img src="https://img.shields.io/badge/Data Cleaning-beige"><img src="https://img.shields.io/badge/Big Data-purple">
 
 # Covid-19 Vaccine Tracker
+
+## Read the  <a href="">Problem Statement</a> To Know About The Project
 <img src="https://i.imgur.com/63JSZsK.png">
-<img src="https://i.imgur.com/cuzoykT.png">
  <img src="https://i.imgur.com/ciFuNMn.png">
 
 
@@ -21,7 +22,7 @@
 ## Steps
 **1.Clone the repository:**
 <pre>
-git clone https://github.com/MuhammadSaad-ml/Movie-Recommender-App
+git clone https://github.com/MuhammadSaad-ml/Covid-19-Vaccine-Tracker
 </pre>
 **2.Create a virtual environment using `venv` or `conda`**
    
